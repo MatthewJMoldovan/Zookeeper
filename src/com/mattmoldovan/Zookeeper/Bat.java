@@ -19,7 +19,7 @@ public class Bat extends Mammal {
 	
 	public String attackTown() {
 		this.setEnergy(getEnergy()-100);
-		return("Sets its target and goes in for the an attack");
+		return("Sets its target and goes in for the attack");
 	}
 	
 	
